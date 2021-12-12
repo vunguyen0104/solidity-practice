@@ -11,6 +11,7 @@ contract SimpleStorage {
     function get() public view returns (uint256) {
         // added comment here by vunguyen0104
         // added comment here by linhloan
+        // added comment 4 by vunguyen0104
         return storedData;
     }
 }
