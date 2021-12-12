@@ -12,6 +12,7 @@ contract SimpleStorage {
         // added comment here by vunguyen0104
         // added comment here by linhloan
         // added comment 4 by vunguyen0104
+        // added comment 3 by linhloan
         return storedData;
     }
 }
