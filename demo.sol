@@ -9,6 +9,7 @@ contract SimpleStorage {
     }
 
     function get() public view returns (uint256) {
+        // added comment here by vunguyen0104
         return storedData;
     }
 }
